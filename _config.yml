@@ -3,3 +3,5 @@
   <div class="gigacalcfooter">
     <a href="https://www.gigacalculator.com/calculators/productivity-calculator.php">Productivity Calculator</a> by <a class="gigacalclink" href="https://www.gigacalculator.com/">GIGAcalculator.com</a>
   </div>
+
+theme: jekyll-theme-midnight
